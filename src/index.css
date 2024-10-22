@@ -308,8 +308,7 @@ main {
   padding: 1.5rem;
   width: 30rem;
   max-width: 90%;
-  z-index: 10;
-  animation: slide-up-fade-in 0.3s ease-out forwards;
+  z-index: 10;  
 }
 
 @keyframes slide-up-fade-in {
